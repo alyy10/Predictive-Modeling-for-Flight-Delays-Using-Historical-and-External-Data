@@ -9,6 +9,7 @@ Gather and preprocess historical flight data and relevant external factors.
 Explore and identify significant features that influence flight delays.
 Build and train a predictive model using various machine learning algorithms.
 Evaluate the performance of the models and implement the best one for practical use.
+
 Methodology
 Data Collection and Preprocessing
 The journey began by collecting historical flight data from Kaggle, which included details like departure and arrival times, flight numbers, and airline information. Additionally, external data on weather conditions, air traffic information, and airport operations were gathered.
